@@ -1,0 +1,11 @@
+传回的数据为:
+
+HTTP/1.1 302 Moved Temporarily
+Date: Sun, 13 Feb 2022 02:57:37 GMT
+Content-Type: text/html;
+Content-Length: 0
+Connection: keep-alive
+Location: dingtalk://dingtalkclient/page/link?url=https%3A%2F%2Foapi.dingtalk.com%2Fconnect%2Foauth2%2Fsns_authorize%3Fresponse_type%3Dcode%26appid%3Ddingoavgypduugluzbifkq%26redirect_uri%3Dhttp%3A%2F%2Foauthservice.net%2Fac_portal%2Foauth_callback.html%26state%3Ddingtalk-%26scope%3Dsnsapi_auth
+Set-Cookie: AUTHSESSID=c459a4301134; HttpOnly;Secure;
+X-Frame-Options: SAMEORIGIN
+

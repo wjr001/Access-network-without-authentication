@@ -1,0 +1,1 @@
+g++ .\SEND_GET.cpp -lws2_32 -fexec-charset=GBK -finput-charset=UTF-8 
